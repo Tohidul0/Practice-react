@@ -12,6 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.spp{
+  color: red;
+  background-color: chartreuse;
+  border: 2px solid rgb(65, 45, 45);
+  border-radius: 30px;
+  margin: 30px;
+  padding: 20px;
+}
 
 .App-header {
   background-color: #282c34;
